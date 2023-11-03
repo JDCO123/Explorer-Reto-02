@@ -21,5 +21,5 @@ export const Descripcion = [
     "Es una tropa terrestre rápida con puntos de vida medios, poco daño y la capacidad de saltar sobre los muros enemigos. Se desbloquea en el nivel 2 del Cuartel oscuro.",
     "Es una carta legendaria que puede obtenerse de los cofres una vez alcanzamos la arena 6. Cuesta 3 de elixir, una cifra bastante asequible, y puede desplegarse en cualquier parte de la Arena. Tiene bastantes puntos de vida, 1.000 a nivel 1 y de 1.460 a nivel 5, que no está nada mal.",
     "Es una tropa muy fuerte, además que tiene una gran velocidad, acompañar esta carta con otras unidades que ataquen con daño en área suele ser un buen combo.",
-    "Es un dragon pero bebe"
+    "El Bebé Dragón tiene un alcance decente y puede volar, lo que le permite atacar el edificio sin exponerse a las torres de princesas opuestas, El Bebé Dragón se puede usar como un tanque para unidades mas fragiles como los esqueletos generados en un cementerio."
 ]
